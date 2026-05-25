@@ -1,0 +1,708 @@
+{
+  "images/architecture/exterior/exterior-01.png": [
+    {
+      "file": "index.html",
+      "category": "Luxury Tower",
+      "title": "Future Living"
+    },
+    {
+      "file": "exterior.html",
+      "category": "Luxury Tower",
+      "title": "Future Living"
+    }
+  ],
+  "images/architecture/exterior/exterior-02.png": [
+    {
+      "file": "index.html",
+      "category": "Villa",
+      "title": "Arabic Luxury"
+    },
+    {
+      "file": "exterior.html",
+      "category": "Villa",
+      "title": "Arabic Luxury"
+    }
+  ],
+  "images/architecture/exterior/exterior-03.png": [
+    {
+      "file": "index.html",
+      "category": "Residence",
+      "title": "Golden Hour"
+    },
+    {
+      "file": "exterior.html",
+      "category": "Residence",
+      "title": "Golden Hour"
+    }
+  ],
+  "images/architecture/exterior/exterior-04.png": [
+    {
+      "file": "index.html",
+      "category": "High-Rise",
+      "title": "Urban Landmark"
+    },
+    {
+      "file": "exterior.html",
+      "category": "High-Rise",
+      "title": "Urban Landmark"
+    }
+  ],
+  "images/architecture/exterior/exterior-05.png": [
+    {
+      "file": "index.html",
+      "category": "Tower",
+      "title": "Skyline Mood"
+    },
+    {
+      "file": "exterior.html",
+      "category": "Tower",
+      "title": "Skyline Mood"
+    }
+  ],
+  "images/architecture/interior/interior-01.png": [
+    {
+      "file": "index.html",
+      "category": "Bedroom",
+      "title": "Warm Luxury"
+    },
+    {
+      "file": "interior.html",
+      "category": "Bedroom",
+      "title": "Warm Luxury"
+    }
+  ],
+  "images/architecture/interior/interior-02.png": [
+    {
+      "file": "index.html",
+      "category": "Living",
+      "title": "Executive Space"
+    },
+    {
+      "file": "interior.html",
+      "category": "Living",
+      "title": "Executive Space"
+    }
+  ],
+  "images/architecture/interior/interior-03.png": [
+    {
+      "file": "index.html",
+      "category": "Banquet",
+      "title": "Grand Interior"
+    },
+    {
+      "file": "interior.html",
+      "category": "Banquet",
+      "title": "Grand Interior"
+    }
+  ],
+  "images/architecture/interior/interior-04.png": [
+    {
+      "file": "index.html",
+      "category": "Reception",
+      "title": "Premium Lobby"
+    },
+    {
+      "file": "interior.html",
+      "category": "Reception",
+      "title": "Premium Lobby"
+    }
+  ],
+  "images/architecture/interior/interior-05.png": [
+    {
+      "file": "index.html",
+      "category": "Bedroom",
+      "title": "Sunset Suite"
+    },
+    {
+      "file": "interior.html",
+      "category": "Bedroom",
+      "title": "Sunset Suite"
+    }
+  ],
+  "images/events/event-01.png": [
+    {
+      "file": "index.html",
+      "category": "Corporate Event",
+      "title": "Qatar Airways Stage"
+    },
+    {
+      "file": "events.html",
+      "category": "Corporate Event",
+      "title": "Qatar Airways Stage"
+    }
+  ],
+  "images/events/event-02.png": [
+    {
+      "file": "index.html",
+      "category": "Conference",
+      "title": "Global Summit"
+    },
+    {
+      "file": "events.html",
+      "category": "Conference",
+      "title": "Global Summit"
+    }
+  ],
+  "images/events/event-03.png": [
+    {
+      "file": "index.html",
+      "category": "Automotive",
+      "title": "SUV Reveal"
+    },
+    {
+      "file": "events.html",
+      "category": "Automotive",
+      "title": "SUV Reveal"
+    }
+  ],
+  "images/events/event-04.png": [
+    {
+      "file": "index.html",
+      "category": "Stage Show",
+      "title": "Cinematic Ceremony"
+    },
+    {
+      "file": "events.html",
+      "category": "Stage Show",
+      "title": "Cinematic Ceremony"
+    }
+  ],
+  "images/exhibition/exhibition-001.png": [
+    {
+      "file": "index.html",
+      "category": "TV Studio",
+      "title": "Broadcast Production Stage"
+    },
+    {
+      "file": "exhibition.html",
+      "category": "TV Studio",
+      "title": "Broadcast Production Stage"
+    }
+  ],
+  "images/exhibition/exhibition-002.png": [
+    {
+      "file": "index.html",
+      "category": "Art Gallery",
+      "title": "Cultural Exhibition"
+    },
+    {
+      "file": "exhibition.html",
+      "category": "Art Gallery",
+      "title": "Cultural Exhibition"
+    }
+  ],
+  "images/exhibition/exhibition-003.png": [
+    {
+      "file": "index.html",
+      "category": "Mega Booth",
+      "title": "Defense Expo Pavilion"
+    },
+    {
+      "file": "exhibition.html",
+      "category": "Mega Booth",
+      "title": "Defense Expo Pavilion"
+    }
+  ],
+  "images/exhibition/exhibition-004.png": [
+    {
+      "file": "index.html",
+      "category": "Corporate Pavilion",
+      "title": "Maritime Port Experience"
+    },
+    {
+      "file": "exhibition.html",
+      "category": "Corporate Pavilion",
+      "title": "Maritime Port Experience"
+    }
+  ],
+  "images/architecture/exterior/exterior-06.png": [
+    {
+      "file": "exterior.html",
+      "category": "Modern Villa",
+      "title": "Minimalist Retreat"
+    }
+  ],
+  "images/architecture/exterior/exterior-07.png": [
+    {
+      "file": "exterior.html",
+      "category": "Waterfront",
+      "title": "Marina Pavilion"
+    }
+  ],
+  "images/architecture/exterior/exterior-08.png": [
+    {
+      "file": "exterior.html",
+      "category": "Commercial",
+      "title": "Glass Atrium"
+    }
+  ],
+  "images/architecture/exterior/exterior-09.png": [
+    {
+      "file": "exterior.html",
+      "category": "Civic Center",
+      "title": "Cultural Plaza"
+    }
+  ],
+  "images/architecture/exterior/exterior-10.png": [
+    {
+      "file": "exterior.html",
+      "category": "Suburban Residence",
+      "title": "Pine Wood Lodge"
+    }
+  ],
+  "images/architecture/exterior/exterior-11.png": [
+    {
+      "file": "exterior.html",
+      "category": "Skyscraper",
+      "title": "Apex Tower"
+    }
+  ],
+  "images/architecture/exterior/exterior-12.png": [
+    {
+      "file": "exterior.html",
+      "category": "Resort",
+      "title": "Tropical Sanctuary"
+    }
+  ],
+  "images/architecture/exterior/exterior-13.png": [
+    {
+      "file": "exterior.html",
+      "category": "Urban Development",
+      "title": "Metro Station Hub"
+    }
+  ],
+  "images/architecture/exterior/exterior-14.png": [
+    {
+      "file": "exterior.html",
+      "category": "Heritage Site",
+      "title": "Traditional Palace"
+    }
+  ],
+  "images/architecture/exterior/exterior-15.png": [
+    {
+      "file": "exterior.html",
+      "category": "Eco-Living",
+      "title": "Forest Canopy Villa"
+    }
+  ],
+  "images/architecture/exterior/exterior-16.png": [
+    {
+      "file": "exterior.html",
+      "category": "Penthouse",
+      "title": "Skyline Terrace"
+    }
+  ],
+  "images/architecture/exterior/exterior-17.png": [
+    {
+      "file": "exterior.html",
+      "category": "Mega Project",
+      "title": "District Masterplan"
+    }
+  ],
+  "images/architecture/interior/interior-06.png": [
+    {
+      "file": "interior.html",
+      "category": "Lounge",
+      "title": "Cosy Retreat"
+    }
+  ],
+  "images/architecture/interior/interior-07.png": [
+    {
+      "file": "interior.html",
+      "category": "Dining Room",
+      "title": "Chic Gathering"
+    }
+  ],
+  "images/architecture/interior/interior-08.png": [
+    {
+      "file": "interior.html",
+      "category": "Kitchen",
+      "title": "Modern Culinary"
+    }
+  ],
+  "images/architecture/interior/interior-09.png": [
+    {
+      "file": "interior.html",
+      "category": "Office",
+      "title": "Creative Studio"
+    }
+  ],
+  "images/architecture/interior/interior-10.png": [
+    {
+      "file": "interior.html",
+      "category": "Bathroom",
+      "title": "Marble Oasis"
+    }
+  ],
+  "images/architecture/interior/interior-11.png": [
+    {
+      "file": "interior.html",
+      "category": "Penthouse Living",
+      "title": "High-Rise Panorama"
+    }
+  ],
+  "images/architecture/interior/interior-12.png": [
+    {
+      "file": "interior.html",
+      "category": "Home Theater",
+      "title": "Cinematic Lounge"
+    }
+  ],
+  "images/architecture/interior/interior-13.png": [
+    {
+      "file": "interior.html",
+      "category": "Walk-in Closet",
+      "title": "Boutique Dressing"
+    }
+  ],
+  "images/architecture/interior/interior-14.png": [
+    {
+      "file": "interior.html",
+      "category": "Wine Cellar",
+      "title": "Private Reserve"
+    }
+  ],
+  "images/architecture/interior/interior-15.png": [
+    {
+      "file": "interior.html",
+      "category": "Library",
+      "title": "Scholarly Nook"
+    }
+  ],
+  "images/architecture/interior/interior-16.png": [
+    {
+      "file": "interior.html",
+      "category": "Foyer",
+      "title": "Grand Entryway"
+    }
+  ],
+  "images/architecture/interior/interior-17.png": [
+    {
+      "file": "interior.html",
+      "category": "Bar Lounge",
+      "title": "Midnight Speakeasy"
+    }
+  ],
+  "images/architecture/interior/interior-18.png": [
+    {
+      "file": "interior.html",
+      "category": "Veranda",
+      "title": "Indoor-Outdoor Living"
+    }
+  ],
+  "images/events/event-05.png": [
+    {
+      "file": "events.html",
+      "category": "Tech Launch",
+      "title": "Next-Gen Keynote"
+    }
+  ],
+  "images/events/event-06.png": [
+    {
+      "file": "events.html",
+      "category": "Music Awards",
+      "title": "Neon Beats Arena"
+    }
+  ],
+  "images/events/event-07.png": [
+    {
+      "file": "events.html",
+      "category": "Fashion Show",
+      "title": "Vogue Runway"
+    }
+  ],
+  "images/events/event-08.png": [
+    {
+      "file": "events.html",
+      "category": "Gala Dinner",
+      "title": "Starry Night Banquet"
+    }
+  ],
+  "images/events/event-09.png": [
+    {
+      "file": "events.html",
+      "category": "Sports Opening",
+      "title": "Stadium Light Show"
+    }
+  ],
+  "images/events/event-10.png": [
+    {
+      "file": "events.html",
+      "category": "Art Festival",
+      "title": "Projection Mapping Dome"
+    }
+  ],
+  "images/events/event-11.png": [
+    {
+      "file": "events.html",
+      "category": "Charity Event",
+      "title": "Hope Gala Stage"
+    }
+  ],
+  "images/events/event-12.png": [
+    {
+      "file": "events.html",
+      "category": "E-Sports",
+      "title": "Championship Arena"
+    }
+  ],
+  "images/events/event-13.png": [
+    {
+      "file": "events.html",
+      "category": "Product Launch",
+      "title": "Luxury Watch Reveal"
+    }
+  ],
+  "images/events/event-14.png": [
+    {
+      "file": "events.html",
+      "category": "Corporate Gala",
+      "title": "Diamond Anniversary"
+    }
+  ],
+  "images/events/event-15.png": [
+    {
+      "file": "events.html",
+      "category": "Film Festival",
+      "title": "Red Carpet Pavilion"
+    }
+  ],
+  "images/events/event-16.png": [
+    {
+      "file": "events.html",
+      "category": "Summit",
+      "title": "Climate Action Stage"
+    }
+  ],
+  "images/events/event-17.png": [
+    {
+      "file": "events.html",
+      "category": "Music Festival",
+      "title": "Sunset Symphony Stage"
+    }
+  ],
+  "images/events/event-18.png": [
+    {
+      "file": "events.html",
+      "category": "Gaming Expo",
+      "title": "VR Immersive Zone"
+    }
+  ],
+  "images/events/event-19.png": [
+    {
+      "file": "events.html",
+      "category": "Award Show",
+      "title": "Golden Statuette Stage"
+    }
+  ],
+  "images/events/event-20.png": [
+    {
+      "file": "events.html",
+      "category": "Dance Performance",
+      "title": "Rhythmic Motion Theater"
+    }
+  ],
+  "images/events/event-21.png": [
+    {
+      "file": "events.html",
+      "category": "Corporate Forum",
+      "title": "Leadership Round Table"
+    }
+  ],
+  "images/events/event-22.png": [
+    {
+      "file": "events.html",
+      "category": "Grand Opening",
+      "title": "Museum Inaugural"
+    }
+  ],
+  "images/events/event-23.png": [
+    {
+      "file": "events.html",
+      "category": "Celebration",
+      "title": "National Day Ceremony"
+    }
+  ],
+  "images/events/event-24.png": [
+    {
+      "file": "events.html",
+      "category": "Tech Expo",
+      "title": "Cyber City Stage"
+    }
+  ],
+  "images/events/event-25.png": [
+    {
+      "file": "events.html",
+      "category": "Automotive",
+      "title": "Electric Hypercar Launch"
+    }
+  ],
+  "images/events/event-26.png": [
+    {
+      "file": "events.html",
+      "category": "Music Concert",
+      "title": "Acoustic Night Studio"
+    }
+  ],
+  "images/events/event-27.png": [
+    {
+      "file": "events.html",
+      "category": "Product Launch",
+      "title": "Future Phone Reveal"
+    }
+  ],
+  "images/events/event-28.png": [
+    {
+      "file": "events.html",
+      "category": "Exhibition Stage",
+      "title": "Interactive Media Wall"
+    }
+  ],
+  "images/events/event-29.png": [
+    {
+      "file": "events.html",
+      "category": "Gala",
+      "title": "Sapphire Ball"
+    }
+  ],
+  "images/events/event-30.png": [
+    {
+      "file": "events.html",
+      "category": "Stage Show",
+      "title": "Quantum Odyssey"
+    }
+  ],
+  "images/exhibition/exhibition-005.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Tech Expo",
+      "title": "Next-Gen Keynote Hub"
+    }
+  ],
+  "images/exhibition/exhibition-006.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Auto Show",
+      "title": "Hypercar Pavilion"
+    }
+  ],
+  "images/exhibition/exhibition-007.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Luxury Brand",
+      "title": "Premium Showcase"
+    }
+  ],
+  "images/exhibition/exhibition-008.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Museum",
+      "title": "Historical Gallery"
+    }
+  ],
+  "images/exhibition/exhibition-009.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Retail Expo",
+      "title": "Future Retail Experience"
+    }
+  ],
+  "images/exhibition/exhibition-010.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Immersive Room",
+      "title": "Digital Media Pavilion"
+    }
+  ],
+  "images/exhibition/exhibition-011.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Aviation Expo",
+      "title": "Aerospace Pavilion"
+    }
+  ],
+  "images/exhibition/exhibition-012.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Energy Summit",
+      "title": "Green Power Pavilion"
+    }
+  ],
+  "images/exhibition/exhibition-013.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Medical Expo",
+      "title": "BioTech Showcase"
+    }
+  ],
+  "images/exhibition/exhibition-014.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Fashion Expo",
+      "title": "Couture Design Runway"
+    }
+  ],
+  "images/exhibition/exhibition-015.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Food Summit",
+      "title": "Culinary Pavilion"
+    }
+  ],
+  "images/exhibition/exhibition-016.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Real Estate",
+      "title": "Future City Exhibit"
+    }
+  ],
+  "images/exhibition/exhibition-017.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Cyber Security",
+      "title": "Defense Zone Pavilion"
+    }
+  ],
+  "images/exhibition/exhibition-018.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Gaming Expo",
+      "title": "Esports Experience Zone"
+    }
+  ],
+  "images/exhibition/exhibition-019.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Telecom Expo",
+      "title": "5G Connected Stage"
+    }
+  ],
+  "images/exhibition/exhibition-020.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Design Biennale",
+      "title": "Architectural Pavilion"
+    }
+  ],
+  "images/exhibition/exhibition-021.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Jewelry Expo",
+      "title": "Luxury Gem Gallery"
+    }
+  ],
+  "images/exhibition/exhibition-022.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Science Center",
+      "title": "Interactive Lab"
+    }
+  ],
+  "images/exhibition/exhibition-023.png": [
+    {
+      "file": "exhibition.html",
+      "category": "Trade Pavilion",
+      "title": "Global Exchange Hub"
+    }
+  ]
+}
