@@ -5,8 +5,8 @@ const PORTFOLIO_DATA = {
   "exterior": [
     {
       "image": "images/architecture/exterior/exterior-01.webp",
-      "category": "Luxury Tower",
-      "title": "Future Living",
+      "category": "Iconic High-Rise",
+      "title": "Sculpted Skyline Tower",
       "sizeClass": "",
       "featured": true,
       "cropMode": "cover",
@@ -14,107 +14,107 @@ const PORTFOLIO_DATA = {
     },
     {
       "image": "images/architecture/exterior/exterior-02.webp",
-      "category": "Villa",
-      "title": "Arabic Luxury",
+      "category": "Modern Villa",
+      "title": "Grand Palm Residence",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/exterior/exterior-03.webp",
-      "category": "Residence",
-      "title": "Golden Hour",
+      "category": "Residential Tower",
+      "title": "Vertical Garden Landmark",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/architecture/exterior/exterior-04.webp",
-      "category": "High-Rise",
-      "title": "Urban Landmark",
+      "category": "High-Rise Tower",
+      "title": "Curved Glass Residence",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/architecture/exterior/exterior-05.webp",
-      "category": "Tower",
-      "title": "Skyline Mood",
+      "category": "Urban Tower",
+      "title": "Fluid Skyline Tower",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/architecture/exterior/exterior-06.webp",
-      "category": "Modern Villa",
-      "title": "Minimalist Retreat",
+      "category": "Luxury Villa",
+      "title": "Garden Water Residence",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/architecture/exterior/exterior-07.webp",
-      "category": "Waterfront",
-      "title": "Marina Pavilion",
+      "category": "Contemporary Villa",
+      "title": "Minimal Street Villa",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/exterior/exterior-08.webp",
-      "category": "Commercial",
-      "title": "Glass Atrium",
+      "category": "Beach Resort",
+      "title": "Coastal Hillside Retreat",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/exterior/exterior-09.webp",
-      "category": "Civic Center",
-      "title": "Cultural Plaza",
+      "category": "Luxury Villa",
+      "title": "Stone Facade Residence",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/exterior/exterior-10.webp",
-      "category": "Suburban Residence",
-      "title": "Pine Wood Lodge",
+      "category": "Modern Villa",
+      "title": "Grand Courtyard Villa",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/exterior/exterior-11.webp",
-      "category": "Skyscraper",
-      "title": "Apex Tower",
+      "category": "Villa Community",
+      "title": "Tree-Lined Residences",
       "sizeClass": "wide",
       "featured": false
     },
     {
       "image": "images/architecture/exterior/exterior-12.webp",
-      "category": "Resort",
-      "title": "Tropical Sanctuary",
+      "category": "Premium Villa",
+      "title": "Layered Facade Residence",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/exterior/exterior-13.webp",
-      "category": "Urban Development",
-      "title": "Metro Station Hub",
+      "category": "Luxury Villas",
+      "title": "Tropical Street Residences",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/exterior/exterior-14.webp",
-      "category": "Heritage Site",
-      "title": "Traditional Palace",
+      "category": "Residential Block",
+      "title": "Warm Urban Residences",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/exterior/exterior-15.webp",
-      "category": "Eco-Living",
-      "title": "Forest Canopy Villa",
+      "category": "Skyline Tower",
+      "title": "Sunset Signature Tower",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/architecture/exterior/exterior-16.webp",
-      "category": "Penthouse",
-      "title": "Skyline Terrace",
+      "category": "Waterfront Tower",
+      "title": "Marina Spiral Tower",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true,
@@ -122,16 +122,16 @@ const PORTFOLIO_DATA = {
     },
     {
       "image": "images/architecture/exterior/exterior-17.webp",
-      "category": "Mega Project",
-      "title": "District Masterplan",
+      "category": "Sculptural Tower",
+      "title": "Blue Sky Landmark",
       "sizeClass": "wide",
       "featured": false,
       "cropMode": "cover"
     },
     {
       "image": "images/architecture/exterior/exterior-18.webp",
-      "category": "New Category",
-      "title": "Untitled Image",
+      "category": "Beach Resort",
+      "title": "Coastal Terrace Resort",
       "sizeClass": "wide",
       "featured": false,
       "cropMode": "cover",
@@ -141,8 +141,8 @@ const PORTFOLIO_DATA = {
     },
     {
       "image": "images/architecture/exterior/exterior-19.webp",
-      "category": "New Category",
-      "title": "Untitled Image",
+      "category": "Beach Resort",
+      "title": "Sunset Cliffside Resort",
       "sizeClass": "",
       "featured": false,
       "cropMode": "cover",
@@ -155,128 +155,128 @@ const PORTFOLIO_DATA = {
     {
       "image": "images/architecture/interior/interior-01.webp",
       "category": "Bedroom",
-      "title": "Warm Luxury",
+      "title": "Warm Sunrise Suite",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/architecture/interior/interior-02.webp",
-      "category": "Living",
-      "title": "Executive Space",
+      "category": "Majlis Lounge",
+      "title": "Arabian Velvet Lounge",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/architecture/interior/interior-03.webp",
-      "category": "Banquet",
-      "title": "Grand Interior",
+      "category": "Hospitality Lounge",
+      "title": "Premium Reception Lounge",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/architecture/interior/interior-04.webp",
-      "category": "Reception",
-      "title": "Premium Lobby",
+      "category": "Executive Living",
+      "title": "City View Lounge",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/architecture/interior/interior-05.webp",
-      "category": "Bedroom",
-      "title": "Sunset Suite",
+      "category": "Banquet Hall",
+      "title": "Crystal Wedding Hall",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/architecture/interior/interior-06.webp",
-      "category": "Lounge",
-      "title": "Cosy Retreat",
+      "category": "Bedroom",
+      "title": "Dark Luxury Bedroom",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-07.webp",
-      "category": "Dining Room",
-      "title": "Chic Gathering",
+      "category": "Bedroom",
+      "title": "Golden Sunset Bedroom",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-08.webp",
-      "category": "Kitchen",
-      "title": "Modern Culinary",
+      "category": "Dining Hall",
+      "title": "Ornate Banquet Dining",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-09.webp",
-      "category": "Office",
-      "title": "Creative Studio",
+      "category": "Executive Office",
+      "title": "Walnut Executive Office",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-10.webp",
-      "category": "Bathroom",
-      "title": "Marble Oasis",
+      "category": "Corridor",
+      "title": "Polished Gallery Corridor",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-11.webp",
-      "category": "Penthouse Living",
-      "title": "High-Rise Panorama",
+      "category": "Study Room",
+      "title": "Private Library Office",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-12.webp",
-      "category": "Home Theater",
-      "title": "Cinematic Lounge",
+      "category": "Bedroom",
+      "title": "Golden Corner Suite",
       "sizeClass": "wide",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-13.webp",
-      "category": "Walk-in Closet",
-      "title": "Boutique Dressing",
+      "category": "Bedroom",
+      "title": "Soft Morning Bedroom",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-14.webp",
-      "category": "Wine Cellar",
-      "title": "Private Reserve",
+      "category": "Lobby Lounge",
+      "title": "Marble Arrival Lounge",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-15.webp",
-      "category": "Library",
-      "title": "Scholarly Nook",
+      "category": "Dining Room",
+      "title": "High-Rise Dining Room",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/architecture/interior/interior-16.webp",
-      "category": "Foyer",
-      "title": "Grand Entryway",
+      "category": "Executive Office",
+      "title": "Gallery Work Lounge",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/architecture/interior/interior-17.webp",
-      "category": "Bar Lounge",
-      "title": "Midnight Speakeasy",
+      "category": "Media Lounge",
+      "title": "Contemporary TV Lounge",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/architecture/interior/interior-18.webp",
-      "category": "Veranda",
-      "title": "Indoor-Outdoor Living",
+      "category": "Bedroom",
+      "title": "Calm Timber Suite",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
@@ -285,58 +285,58 @@ const PORTFOLIO_DATA = {
   "events": [
     {
       "image": "images/events/event-01.webp",
-      "category": "Corporate Event",
-      "title": "Qatar Airways Stage",
+      "category": "Stadium Ceremony",
+      "title": "Blue Light Arena",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/events/event-02.webp",
-      "category": "Conference",
-      "title": "Global Summit",
+      "category": "Conference Stage",
+      "title": "White Forum Stage",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-03.webp",
-      "category": "Automotive",
-      "title": "SUV Reveal",
+      "category": "Gala Stage",
+      "title": "Blue Ceremony Stage",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-04.webp",
-      "category": "Stage Show",
-      "title": "Cinematic Ceremony",
+      "category": "Majlis Event",
+      "title": "Formal Council Session",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/events/event-05.webp",
-      "category": "Tech Launch",
-      "title": "Next-Gen Keynote",
+      "category": "Corporate Conference",
+      "title": "Multi-Screen Keynote",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/events/event-06.webp",
-      "category": "Music Awards",
-      "title": "Neon Beats Arena",
+      "category": "Public Ceremony",
+      "title": "Floral Heritage Stage",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-07.webp",
-      "category": "Fashion Show",
-      "title": "Vogue Runway",
+      "category": "Outdoor Spectacle",
+      "title": "Red Skyline Celebration",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-08.webp",
-      "category": "Gala Dinner",
-      "title": "Starry Night Banquet",
+      "category": "Awards Stage",
+      "title": "Presenter Screen Stage",
       "sizeClass": "",
       "featured": false,
       "cropMode": "contain",
@@ -344,159 +344,159 @@ const PORTFOLIO_DATA = {
     },
     {
       "image": "images/events/event-09.webp",
-      "category": "Sports Opening",
-      "title": "Stadium Light Show",
+      "category": "Gala Dinner",
+      "title": "City Screen Banquet",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-10.webp",
-      "category": "Art Festival",
-      "title": "Projection Mapping Dome",
+      "category": "Catering Event",
+      "title": "Catering Experience Hall",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-11.webp",
-      "category": "Charity Event",
-      "title": "Hope Gala Stage",
+      "category": "Aviation Gala",
+      "title": "Qatar Airways Stage",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-12.webp",
-      "category": "E-Sports",
-      "title": "Championship Arena",
+      "category": "Conference Hall",
+      "title": "Blue Wave Auditorium",
       "sizeClass": "wide",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/events/event-13.webp",
-      "category": "Product Launch",
-      "title": "Luxury Watch Reveal",
+      "category": "Brand Presentation",
+      "title": "Qatar Airways Speaker Stage",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-14.webp",
       "category": "Corporate Gala",
-      "title": "Diamond Anniversary",
+      "title": "Qatar Airways Dinner Stage",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-15.webp",
-      "category": "Film Festival",
-      "title": "Red Carpet Pavilion",
+      "category": "Registration Area",
+      "title": "Qatar Airways Welcome Desk",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-16.webp",
-      "category": "Summit",
-      "title": "Climate Action Stage",
+      "category": "Aviation Gala",
+      "title": "Pink Runway Ceremony",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-17.webp",
-      "category": "Music Festival",
-      "title": "Sunset Symphony Stage",
+      "category": "Group Ceremony",
+      "title": "Formal Recognition Stage",
       "sizeClass": "wide",
       "featured": false
     },
     {
       "image": "images/events/event-18.webp",
-      "category": "Gaming Expo",
-      "title": "VR Immersive Zone",
+      "category": "Formal Presentation",
+      "title": "Podium Keynote",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-19.webp",
-      "category": "Award Show",
-      "title": "Golden Statuette Stage",
+      "category": "Press Conference",
+      "title": "Official Media Briefing",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-20.webp",
-      "category": "Dance Performance",
-      "title": "Rhythmic Motion Theater",
+      "category": "Panel Discussion",
+      "title": "Heritage Panel Stage",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-21.webp",
-      "category": "Corporate Forum",
-      "title": "Leadership Round Table",
+      "category": "Trade Show Booth",
+      "title": "Tawdheef Career Stand",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-22.webp",
-      "category": "Grand Opening",
-      "title": "Museum Inaugural",
+      "category": "Conference Desk",
+      "title": "Elegant Panel Briefing",
       "sizeClass": "wide",
       "featured": false
     },
     {
       "image": "images/events/event-23.webp",
-      "category": "Celebration",
-      "title": "National Day Ceremony",
+      "category": "Stadium Event",
+      "title": "Blue Arena Light Show",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/events/event-24.webp",
-      "category": "Tech Expo",
-      "title": "Cyber City Stage",
+      "category": "Information Kiosk",
+      "title": "Event Wayfinding Stand",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-25.webp",
-      "category": "Automotive",
-      "title": "Electric Hypercar Launch",
+      "category": "Concert Stage",
+      "title": "Golden Performance Arena",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/events/event-26.webp",
-      "category": "Music Concert",
-      "title": "Acoustic Night Studio",
+      "category": "Live Concert",
+      "title": "Pink Spotlight Performance",
       "sizeClass": "",
       "featured": true,
       "inSlideshow": true
     },
     {
       "image": "images/events/event-27.webp",
-      "category": "Product Launch",
-      "title": "Future Phone Reveal",
+      "category": "Concert Production",
+      "title": "Qatar Airways Concert Stage",
       "sizeClass": "wide",
       "featured": false
     },
     {
       "image": "images/events/event-28.webp",
-      "category": "Exhibition Stage",
-      "title": "Interactive Media Wall",
+      "category": "Immersive Event",
+      "title": "Panoramic Media Stage",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/events/event-29.webp",
-      "category": "Gala",
-      "title": "Sapphire Ball",
+      "category": "Immersive Dinner",
+      "title": "Blue Projection Banquet",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/events/event-30.webp",
-      "category": "Stage Show",
-      "title": "Quantum Odyssey",
+      "category": "VIP Entrance",
+      "title": "Heritage Event Gateway",
       "sizeClass": "",
       "featured": false
     }
@@ -504,22 +504,22 @@ const PORTFOLIO_DATA = {
   "exhibition": [
     {
       "image": "images/exhibition/exhibition-001.webp",
-      "category": "TV Studio",
-      "title": "Broadcast Production Stage",
+      "category": "Government Pavilion",
+      "title": "Modern Expo Stand",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/exhibition/exhibition-002.webp",
-      "category": "Art Gallery",
-      "title": "Cultural Exhibition",
+      "category": "Exhibition Masterplan",
+      "title": "Trade Show Layout",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-003.webp",
-      "category": "Mega Booth",
-      "title": "Defense Expo Pavilion",
+      "category": "Corporate Stand",
+      "title": "Curved Welcome Pavilion",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true,
@@ -527,146 +527,146 @@ const PORTFOLIO_DATA = {
     },
     {
       "image": "images/exhibition/exhibition-004.webp",
-      "category": "Corporate Pavilion",
-      "title": "Maritime Port Experience",
+      "category": "Corporate Stand",
+      "title": "UDC Island Pavilion",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/exhibition/exhibition-005.webp",
-      "category": "Tech Expo",
-      "title": "Next-Gen Keynote Hub",
+      "category": "Brand Showcase",
+      "title": "Circular Product Display",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-006.webp",
-      "category": "Auto Show",
-      "title": "Hypercar Pavilion",
+      "category": "TV Studio",
+      "title": "Circular Broadcast Set",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/exhibition/exhibition-007.webp",
-      "category": "Luxury Brand",
-      "title": "Premium Showcase",
+      "category": "Real Estate Booth",
+      "title": "Island Model Showcase",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-008.webp",
-      "category": "Museum",
-      "title": "Historical Gallery",
+      "category": "UDC Pavilion",
+      "title": "Waterfront Development Stand",
       "sizeClass": "",
       "featured": false,
       "cropMode": "contain"
     },
     {
       "image": "images/exhibition/exhibition-009.webp",
-      "category": "Retail Expo",
-      "title": "Future Retail Experience",
+      "category": "UDC Pavilion",
+      "title": "Urban Development Booth",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-010.webp",
-      "category": "Immersive Room",
-      "title": "Digital Media Pavilion",
+      "category": "UDC Pavilion",
+      "title": "Marina Model Showcase",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-011.webp",
-      "category": "Aviation Expo",
-      "title": "Aerospace Pavilion",
+      "category": "UDC Pavilion",
+      "title": "Multi-Zone Exhibition Stand",
       "sizeClass": "wide",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-012.webp",
-      "category": "Energy Summit",
-      "title": "Green Power Pavilion",
+      "category": "UDC Reception",
+      "title": "Hospitality Meeting Counter",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-013.webp",
-      "category": "Medical Expo",
-      "title": "BioTech Showcase",
+      "category": "UDC Booth",
+      "title": "Framed Media Pavilion",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-014.webp",
-      "category": "Fashion Expo",
-      "title": "Couture Design Runway",
+      "category": "Meeting Room",
+      "title": "Private Client Briefing",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-015.webp",
-      "category": "Food Summit",
-      "title": "Culinary Pavilion",
+      "category": "UDC Lounge",
+      "title": "Warm Hospitality Suite",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/exhibition/exhibition-016.webp",
-      "category": "Real Estate",
-      "title": "Future City Exhibit",
+      "category": "UDC Reception",
+      "title": "Boutique Service Counter",
       "sizeClass": "wide",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-017.webp",
-      "category": "Cyber Security",
-      "title": "Defense Zone Pavilion",
+      "category": "Media Room",
+      "title": "Social Media Command Area",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/exhibition/exhibition-018.webp",
-      "category": "Gaming Expo",
-      "title": "Esports Experience Zone",
+      "category": "Retail Booth",
+      "title": "Americana Food Stand",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/exhibition/exhibition-019.webp",
-      "category": "Telecom Expo",
-      "title": "5G Connected Stage",
+      "category": "Retail Pavilion",
+      "title": "Qatar Brand Marketplace",
       "sizeClass": "",
       "featured": true
     },
     {
       "image": "images/exhibition/exhibition-020.webp",
-      "category": "Design Biennale",
-      "title": "Architectural Pavilion",
+      "category": "Cultural Gallery",
+      "title": "Heritage Display Pavilion",
       "sizeClass": "",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-021.webp",
-      "category": "Jewelry Expo",
-      "title": "Luxury Gem Gallery",
+      "category": "Brand Booth",
+      "title": "W Hotel Exhibition Stand",
       "sizeClass": "wide",
       "featured": false
     },
     {
       "image": "images/exhibition/exhibition-022.webp",
-      "category": "Science Center",
-      "title": "Interactive Lab",
+      "category": "Lounge Showcase",
+      "title": "W Hospitality Stand",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": true
     },
     {
       "image": "images/exhibition/exhibition-023.webp",
-      "category": "Trade Pavilion",
-      "title": "Global Exchange Hub",
+      "category": "Awards Gallery",
+      "title": "Trophy Wall Showcase",
       "sizeClass": "",
       "featured": false,
       "inSlideshow": false
